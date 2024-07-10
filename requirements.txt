@@ -1,0 +1,7 @@
+pyannote.audio
+torch
+torchaudio
+transformers
+librosa
+noisereduce
+pydub
